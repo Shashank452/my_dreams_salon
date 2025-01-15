@@ -1,0 +1,30 @@
+name: "My Dreams Salon"
+description: "A website for a beauty salon that captures the essence of a dreamy and luxurious experience."
+home-baground: "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&q=80&w=2000"
+
+about: "Welcome to My Dreams Salon – Where Your Style Meets Your Dreams! At My Dreams Salon, we are dedicated to helping you look and feel your best. Our experienced team specializes in delivering exceptional grooming and beauty service, including shaves, trims, haircuts, hair coloring, and rejuvenating face massages. With a focus on precision, creativity, and relaxation, we’ve created a space where you can unwind and enjoy personalized care that enhances your unique look. Whether you’re looking for a classic cut, a bold new color, or a refreshing face massage, My Dreams Salon is here to make your vision a reality. Step into our salon and let us transform your everyday routine into a luxurious experience – because you deserve to shine!"
+
+service: [
+    "Shaves",
+    "Trims",
+    "Haircuts",
+    "Hair Coloring",
+    "Facial Treatments"]
+
+galary: []
+
+testimonials: [
+    "I was so impressed with the quality of the haircut. The stylist was very professional and made my hair look so good.",
+    "I couldn't believe how much better my hair looked after just one visit to the salon. The stylist was so kind and attentive.",
+    "I was so happy with the results of my facial treatment. The therapist was very knowledgeable and made me feel so relaxed.",
+    "I was so impressed with the quality of the haircut. The stylist was very professional and made my hair look so good."
+    ]
+
+blog: []
+
+contact: "My Dreams Salon, 5, 1st Main 3rd Cross, kottigepalya, Bangalore, Karnataka, 560091"
+
+social-media: [
+    instagram:"https://www.instagram.com",
+    facebook: "https://www.facebook.com",
+    twitter: "https://www.twitter.com"]
