@@ -597,6 +597,18 @@ body {
     }
 }
 
+@media (max-width: 600px) {
+    .navbar-toggler {
+        border-color: white;
+    }
+    .navbar-toggler .icon {
+        color: white;
+    }
+    .navbar-toggler-icon {
+        color: white;
+    }
+}
+
 /* Animations */
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(20px); }
