@@ -209,6 +209,12 @@ body {
     color: var(--primary-color);
 }
 
+@media (max-width: 576px) {
+    .social-links a {
+        margin: 0 5px; /* Remove right margin on small screens */
+    }
+}
+
 /* Button Styles */
 .button {
     padding: 0.8rem 2.2rem;

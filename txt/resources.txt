@@ -25,6 +25,14 @@ blog: []
 contact: "My Dreams Salon, 5, 1st Main 3rd Cross, kottigepalya, Bangalore, Karnataka, 560091"
 
 social-media: [
-    instagram:"https://www.instagram.com",
-    facebook: "https://www.facebook.com",
-    twitter: "https://www.twitter.com"]
+    instagram:"https://www.instagram.com/mydreamsalonvip/",
+    facebook: "https://www.facebook.com/Mydreamsalons/",
+    twitter: "https://x.com/mydreams_s58177",
+    youtube: "https://www.youtube.com/@MydreamsSalon",
+    telegram: "https://t.me/+ixLZIlSTYTI1NGE1",
+    whatsapp: "https://wa.me/919739745060"]
+
+contact-info: [
+    "Email: mydreamsalonvip@gmail.com",
+    "Phone: +91 97397 45060",
+    "Address: 5, 1st Main 3rd Cross, Kottigepalya, Bangalore-560091"]
