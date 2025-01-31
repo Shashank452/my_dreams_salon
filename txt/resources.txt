@@ -30,7 +30,9 @@ social-media: [
     twitter: "https://x.com/mydreams_s58177",
     youtube: "https://www.youtube.com/@MydreamsSalon",
     telegram: "https://t.me/+ixLZIlSTYTI1NGE1",
-    whatsapp: "https://wa.me/919739745060"]
+    whatsapp: "https://wa.me/919739745060",
+    linkdin: "https://www.linkedin.com/in/putturajsk-p-h-raj-67b785284/",
+    reddit: "https://www.reddit.com/user/My_Dream_Salon"]
 
 contact-info: [
     "Email: mydreamsalonvip@gmail.com",
