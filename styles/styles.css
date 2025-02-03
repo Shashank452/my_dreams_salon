@@ -76,17 +76,16 @@ body {
     background-color: #ffffff; /* White background for navbar */
 }
 
-[data-theme="dark"] .navbar-nav .nav-link {
+.navbar-nav .nav-link {
     color: #000000; /* Black text for nav links */
 }
 
-[data-theme="dark"] .navbar-toggler {
-    background-color: transparent; /* Make background transparent */
-    border-color: white; /* Change border color to white */
+.navbar-toggler {
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 [data-theme="dark"] .navbar-toggler-icon {
-    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" fill="white" height="30" width="30" viewBox="0 0 30 30"%3E%3Cpath stroke="white" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"/%3E%3C/svg%3E'); /* Change icon color to white */
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" fill="rgb(255, 255, 255)" height="30" width="30" viewBox="0 0 30 30"%3E%3Cpath stroke="white" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"/%3E%3C/svg%3E'); /* Change icon color to white */
 }
 
 /* Section Styles */
@@ -212,6 +211,20 @@ body {
 @media (max-width: 576px) {
     .social-links a {
         margin: 0 5px; /* Remove right margin on small screens */
+    }
+    .social-links-container {
+        display: block;
+    }
+    .social-links-container div {
+        justify-content: center;
+    }
+}
+
+@media (min-width: 768px) {
+    .social-links-container {
+        justify-content: left;
+        display: flex;
+        flex-wrap: wrap;
     }
 }
 
